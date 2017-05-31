@@ -99,7 +99,7 @@
 	border-radius: 50%;
 	text-indent: -9000px;
 	cursor: pointer;
-	opacity: 0.8;
+	opacity: 100;
 }
 
 .elastislide-wrapper nav span:hover {
