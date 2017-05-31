@@ -75,6 +75,7 @@
 }
 
 .elastislide-horizontal ul li {
+	padding: 0px 3px;
 	height: 100%;
 	display: inline-block;
 }
