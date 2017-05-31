@@ -14,6 +14,7 @@
 }
 
 .elastislide-wrapper ul li:hover {
+	transition: .5s ease;
 	opacity: 0.2
 }
 
@@ -32,7 +33,7 @@
 }
 
 .elastislide-horizontal {
-	padding: 50px 40px;
+	padding: 20px 40px;
 }
 
 .elastislide-vertical {
