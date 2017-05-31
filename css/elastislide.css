@@ -33,6 +33,7 @@
 }
 
 .elastislide-wrapper ul li:hover .image{
+	transition: .5s ease;
 	opacity: 0.2
 }
 
